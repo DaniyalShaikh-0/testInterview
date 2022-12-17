@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/testInterview/static/css/main.ffc549d7.css",
+    "main.js": "/testInterview/static/js/main.62ed408a.js",
+    "static/js/787.fa56b504.chunk.js": "/testInterview/static/js/787.fa56b504.chunk.js",
+    "index.html": "/testInterview/index.html",
+    "main.ffc549d7.css.map": "/testInterview/static/css/main.ffc549d7.css.map",
+    "main.62ed408a.js.map": "/testInterview/static/js/main.62ed408a.js.map",
+    "787.fa56b504.chunk.js.map": "/testInterview/static/js/787.fa56b504.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffc549d7.css",
+    "static/js/main.62ed408a.js"
+  ]
+}
